@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "تطبيق مهارات الوظائف التنفيذية"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "tasks": "المهام",
+    "upcomingTasks": "المهام القادمة",
+    "focus": "حصة تركيز"
+  },
+  "taskManagement": {
+    "title": "إدارة المهام",
+    "newTask": "مهمة جديدة",
+    "priority": "الأولوية",
+    "dueDate": "تاريخ الاستحقاق"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم",
+    "tasks": "إدارة المهام",
+    "taskDetails": "تفاصيل المهمة",
+    "calendar": "المفكرة",
+    "focusSession": "حصة تركيز",
+    "courses": "مدونة المقررات",
+    "achievements": "مؤشرات إنجازاتي"
+  }
+}
